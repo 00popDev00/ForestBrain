@@ -1,0 +1,24 @@
+{
+  "name": "forest-brain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00popDev00/ForestBrain.git"
+  },
+  "author": "Purav Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00popDev00/ForestBrain/issues"
+  },
+  "homepage": "https://github.com/00popDev00/ForestBrain#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
